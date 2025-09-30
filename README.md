@@ -6,8 +6,8 @@ I'm a passionate DevOps Engineer with 2+ years of experience automating, monitor
 
 ## 🚀 Tech I Work With
 
-**CI/CD:** GitHub Actions · Jenkins · GitLab · GitOps
-**Cloud Providers:** AWS · Azure  
+**CI/CD:** GitHub Actions · Jenkins · GitOps
+**Cloud:** AWS · Azure(basics)  
 **IaC:** Terraform · Ansible   
 **Containers & Orchestration:** Docker · Kubernetes · Helm  
 **Monitoring & Logging:** Prometheus · Grafana · ELK  
